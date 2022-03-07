@@ -1,5 +1,6 @@
 package Lab_6;
-import java.util.*;
+import java.util.Random;
+import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args) {

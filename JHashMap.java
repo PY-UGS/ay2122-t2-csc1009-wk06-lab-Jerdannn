@@ -1,5 +1,6 @@
 package Lab_6;
-import java.util.*;
+import java.util.HashMap;
+import java.util.TreeMap;
 
 public class JHashMap {
     //Operations
